@@ -9,3 +9,9 @@
 // console.log(endday);
 
 // console.log(moment().endOf('day').fromNow());
+
+console.log("tessst");
+
+import moment from 'moment';
+console.log(moment().format());
+
